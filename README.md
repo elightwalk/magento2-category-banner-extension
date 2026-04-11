@@ -5,7 +5,7 @@ Magento category banner Extension may help e-commerce sites promote products on 
 To attract more clients, use our Magento 2 category banner extension to promote select goods on your website's category page. With this banner solution, displaying new offers, great bargains, or other information that keeps clients coming is no longer a complicated plan.
 
 This category banner for magento allows users to successfully advertise and market their items in their online store's categories. Use this Magento 2 Extension to capitalise on this attractive possibility to acquire more consumers!
-[Magento - Social Login](https://www.elightwalk.com/magento-social-login.html)
+[Magento - Social Login](https://www.elightwalk.com/magento-social-login)
 
 
 ## Highlight Features
@@ -19,7 +19,7 @@ This category banner for magento allows users to successfully advertise and mark
 
 
 
-☞ Know More Details About the Extension: [Magento 2 Category banner](https://www.elightwalk.com/magento-category-banner.html)
+☞ Know More Details About the Extension: [Magento 2 Category banner](https://www.elightwalk.com/magento-category-banner)
 
 
 ## Installation Guide
@@ -48,10 +48,10 @@ php bin/magento c:f
 
 **More Elightwalk Extensions on Github Marketplace**
 
-☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp.html)
+☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp)
 
-☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
+☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap)
 
-☞ [Magento - Social Login](https://www.elightwalk.com/magento-social-login.html)
+☞ [Magento - Social Login](https://www.elightwalk.com/magento-social-login)
 
-☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login.html)
+☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login)
